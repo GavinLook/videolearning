@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T08:58:26.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="uIYkhM8o4D3WWqRFYWzM" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-13T09:16:41.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0qpt0bHKF8GKH3DLQ14r" version="20.5.3" type="github" pages="3">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -499,6 +499,30 @@
         </mxCell>
         <mxCell id="EOpfLwn9DBZEHAKd-6kI-116" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;调用注册在HdmiControlService里面的ITvInputManagerCallback的onInputStateChanged回调方法，ITvInputManagerCallback则是可以通过TvInputManager注册的回调&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="350" y="2080" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-1" value="vendor/amlogic/common/frameworks/services/hdmicec/libhdmi_cec/HdmiCecControl.cpp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="870" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-2" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecControl&lt;/span&gt;::&lt;span style=&quot;color: #dcdcaa;&quot;&gt;handleHotplug&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2145" y="940" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-3" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecControl&lt;/span&gt;::&lt;span style=&quot;color: #dcdcaa;&quot;&gt;getDeviceExtraInfo(1)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2132.5" y="1060" width="287.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-4" value="播放设备且没有连接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="1010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-5" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecControl&lt;/span&gt;::&lt;span style=&quot;color: #4ec9b0;&quot;&gt;MsgHandler&lt;/span&gt;::&lt;span style=&quot;color: #9cdcfe;&quot;&gt;GIVE_OSD_NAEM&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="1030" width="317.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-6" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecControl&lt;/span&gt;::&lt;span style=&quot;color: #4ec9b0;&quot;&gt;MsgHandler&lt;/span&gt;::&lt;span style=&quot;color: #9cdcfe;&quot;&gt;MSG_GIVE_DEVICE_VENDOR_ID&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="1100" width="317.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-7" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecControl&lt;/span&gt;::&lt;span style=&quot;color: #4ec9b0;&quot;&gt;MsgHandler&lt;/span&gt;::&lt;span style=&quot;color: #9cdcfe;&quot;&gt;GET_MENU_LANGUAGE&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="1180" width="317.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-8" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecControl&lt;/span&gt;::&lt;span style=&quot;color: #4ec9b0;&quot;&gt;MsgHandler&lt;/span&gt;::&lt;span style=&quot;color: #dcdcaa;&quot;&gt;handleMessage&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1190" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
