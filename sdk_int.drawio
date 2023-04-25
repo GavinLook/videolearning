@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T11:50:29.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="s2cyRy4oYMz9iKLGDL4x" version="21.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-25T12:20:24.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8oFX-NNsu0E9IzwRPXQM" version="21.1.7" type="github" pages="4">
   <diagram name="ekiga_main" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1372" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nIkm5QkR0DiJscG3uBfI" name="c9_plugin_init">
-    <mxGraphModel dx="2199" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2441" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,42 +337,56 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hiJ7gESslxtPcER5zRw0-1" value="&lt;div&gt;&amp;nbsp; audioinput_c9_init(kickstart);&lt;/div&gt;&lt;div&gt;&amp;nbsp; audiooutput_c9_init(kickstart);&lt;/div&gt;&lt;div&gt;&amp;nbsp; videoinput_c9_init(kickstart);&lt;/div&gt;&lt;div&gt;&amp;nbsp; videooutput_c9_init(kickstart);&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="340" width="190" height="60" as="geometry" />
+          <mxGeometry x="-650" y="280" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiJ7gESslxtPcER5zRw0-2" value="audioinput_c9_init" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="345" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-335" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiJ7gESslxtPcER5zRw0-5" value="audiooutput_c9_init" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="345" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="-335" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiJ7gESslxtPcER5zRw0-6" value="videoinput_c9_init" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="345" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-335" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiJ7gESslxtPcER5zRw0-7" value="videooutput_c9_init" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="345" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="-335" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vv6Zkrfm-g0jwWEZShg1-1" value="OpalPluginMediaFormatInternal::PopulateOptions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="695" width="280" height="60" as="geometry" />
+          <mxGeometry x="-180" y="635" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vv6Zkrfm-g0jwWEZShg1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv6Zkrfm-g0jwWEZShg1-2" target="Vv6Zkrfm-g0jwWEZShg1-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Vv6Zkrfm-g0jwWEZShg1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vv6Zkrfm-g0jwWEZShg1-2" target="Vv6Zkrfm-g0jwWEZShg1-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="665" />
+              <mxPoint x="-200" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Vv6Zkrfm-g0jwWEZShg1-2" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;OpalPluginVideoFormatInternal::&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;OpalPluginVideoFormatInternal&lt;/b&gt;&lt;/div&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;OpalVideoFormatInternal&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;OpalPluginMediaFormatInternal&lt;br&gt;PopulateOptions&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="220" y="680" width="245" height="90" as="geometry" />
+          <mxGeometry x="-460" y="610" width="245" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Vv6Zkrfm-g0jwWEZShg1-3" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Vv6Zkrfm-g0jwWEZShg1-2">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Vv6Zkrfm-g0jwWEZShg1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vv6Zkrfm-g0jwWEZShg1-6" target="Vv6Zkrfm-g0jwWEZShg1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Vv6Zkrfm-g0jwWEZShg1-6" value="OpalMediaFormatInternal::OpalMediaFormatInternal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="620" width="280" height="60" as="geometry" />
+          <mxGeometry x="-180" y="560" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vv6Zkrfm-g0jwWEZShg1-5" value="OpalPluginVideoFormatInternal::Clone()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="695" width="230" height="60" as="geometry" />
+          <mxGeometry x="-730" y="635" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vv6Zkrfm-g0jwWEZShg1-7" value="1. 描述一种媒体格式的详细信息&lt;br style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;2. 让Opal的其他模块可以使用这些信息来进行媒体处理,比如RTP传输,SDP生成等&lt;br&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;Opal框架中描述媒体格式信息的基石, Opal的大部分媒体相关的处理逻辑都基于这个类。&lt;br&gt;&lt;/span&gt;必须对常见的媒体格式如OPUS,PCMU,G722等的信息进行准确定义,才能使Opal框架正确地支持这些媒体格式。&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="450" width="290" height="200" as="geometry" />
+        <mxCell id="Vv6Zkrfm-g0jwWEZShg1-7" value="一个用于内部使用的媒体格式类，它包含:&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- 媒体格式的名称,如 opus, G722, PCMU 等&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- 媒体格式的 clock rate,比如8000Hz, 16000Hz 等&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- 媒体格式的ptime,用于RTP打包&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- 媒体格式的maxptime,用于RTP打包&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- 媒体格式是否需要FEC(前向纠错)&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- 媒体格式的其他一些细节参数&lt;/span&gt;&lt;br&gt;&lt;br&gt;主要被Opal的其他模块使用,比如:&lt;br&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- RTP机制使用这个类中的clock rate, ptime, maxptime等信息来组包RTP数据&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- SDP生成器使用这个类中的媒体格式名称及参数生成SDP&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- 编解码器管理器使用这个类来管理和选择支持的编解码器&lt;br&gt;&lt;/span&gt;&lt;br&gt;1. 描述一种媒体格式的详细信息&lt;br style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;2. 让Opal的其他模块可以使用这些信息来进行媒体处理,比如RTP传输,SDP生成等&lt;br&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;Opal框架中描述媒体格式信息的基石, Opal的大部分媒体相关的处理逻辑都基于这个类。&lt;br&gt;&lt;/span&gt;必须对常见的媒体格式如OPUS,PCMU,G722等的信息进行准确定义,才能使Opal框架正确地支持这些媒体格式。&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="600" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv6Zkrfm-g0jwWEZShg1-10" value="payloadType 为 127，RTX (Retransmission)&lt;br&gt;RTX 使用特殊的 payload type(通常是 127)来标识重传的数据包。原始的数据包仍然使用正常的 payload type。RTX 数据包中会包含原始数据包的序列号,使得接收端能够找到丢失的数据包,完成数据包的重组。&lt;br&gt;&lt;span style=&quot;text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;br&gt;&lt;font face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot; color=&quot;#1d1c1d&quot;&gt;OpalMediaFormatInternal 333 ok!fullName:H.264-High rtpPayloadType: [pt=100] pt: [pt=96]&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="310" width="390" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
