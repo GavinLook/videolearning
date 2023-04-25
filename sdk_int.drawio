@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T09:39:48.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DPTGc9tEw0u26Q9mRWy2" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-25T10:01:10.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7hok1t7mGjjSEGUVoTrM" version="21.1.7" type="github" pages="3">
   <diagram name="ekiga_main" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1372" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -157,11 +157,11 @@
         <mxCell id="7baba1c4bc27f4b0-43" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="540" y="30" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-44" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="680" y="30" width="100" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-45" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="820" y="30" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-44" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="680" y="30" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-46" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="960" y="30" width="100" height="35" as="geometry" />
@@ -180,17 +180,17 @@
         <mxCell id="gQu-EgqjIdYCseF4d5mw-1" value="ekiga_main" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="110" y="-300" width="140" height="50" as="geometry" />
         </mxCell>
+        <UserObject label="engine_init" link="data:page/id,sQ9oNI7Usirow8br0qx9" id="eDSKi7YM4I0om17HCzt9-1">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+            <mxGeometry x="490" y="-195" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="gQu-EgqjIdYCseF4d5mw-2" value="gm_application_new" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="-400" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gQu-EgqjIdYCseF4d5mw-6" value="C9_VcapVenc_init" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="-300" width="110" height="50" as="geometry" />
         </mxCell>
-        <UserObject label="engine_init" link="data:page/id,sQ9oNI7Usirow8br0qx9" id="eDSKi7YM4I0om17HCzt9-1">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
-            <mxGeometry x="490" y="-195" width="120" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -205,8 +205,10 @@
         <mxCell id="-shQEy_NEgaJKzDIcHlw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wrvQ9h7CXD9r9QgLEHSX-1" target="-shQEy_NEgaJKzDIcHlw-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-shQEy_NEgaJKzDIcHlw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wrvQ9h7CXD9r9QgLEHSX-1" target="-shQEy_NEgaJKzDIcHlw-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-shQEy_NEgaJKzDIcHlw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wrvQ9h7CXD9r9QgLEHSX-1" target="benARrttGZBLRWTV01FH-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="245" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-shQEy_NEgaJKzDIcHlw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wrvQ9h7CXD9r9QgLEHSX-1" target="-shQEy_NEgaJKzDIcHlw-6">
           <mxGeometry relative="1" as="geometry" />
@@ -234,9 +236,6 @@
         <mxCell id="-shQEy_NEgaJKzDIcHlw-3" value="instance.Start (core)" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="160" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-shQEy_NEgaJKzDIcHlw-4" value="opal_init" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="490" y="220" width="160" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="-shQEy_NEgaJKzDIcHlw-5" value="&lt;div&gt;&amp;nbsp; history_init (kickstart);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; simple_book_init (kickstart);&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="280" width="160" height="50" as="geometry" />
         </mxCell>
@@ -251,6 +250,49 @@
         </mxCell>
         <mxCell id="-shQEy_NEgaJKzDIcHlw-9" value="&lt;div&gt;&amp;nbsp; hal_core-&amp;gt;videoinput_device_added.connect (boost::bind (&amp;amp;Ekiga::VideoInputCore::add_device, boost::ref (*videoinput_core), _1, _2, _3, _4));&lt;/div&gt;&lt;div&gt;&amp;nbsp; hal_core-&amp;gt;videoinput_device_removed.connect (boost::bind (&amp;amp;Ekiga::VideoInputCore::remove_device, boost::ref (*videoinput_core), _1, _2, _3, _4));&lt;/div&gt;&lt;div&gt;&amp;nbsp; hal_core-&amp;gt;audiooutput_device_added.connect (boost::bind (&amp;amp;Ekiga::AudioOutputCore::add_device, boost::ref (*audiooutput_core), _1, _2, _3));&lt;/div&gt;&lt;div&gt;&amp;nbsp; hal_core-&amp;gt;audiooutput_device_removed.connect (boost::bind (&amp;amp;Ekiga::AudioOutputCore::remove_device, boost::ref (*audiooutput_core), _1, _2, _3));&lt;/div&gt;&lt;div&gt;&amp;nbsp; hal_core-&amp;gt;audioinput_device_added.connect (boost::bind (&amp;amp;Ekiga::AudioInputCore::add_device, boost::ref (*audioinput_core), _1, _2, _3));&lt;/div&gt;&lt;div&gt;&amp;nbsp; hal_core-&amp;gt;audioinput_device_removed.connect (boost::bind (&amp;amp;Ekiga::AudioInputCore::remove_device, boost::ref (*audioinput_core), _1, _2, _3));&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="600" width="830" height="100" as="geometry" />
+        </mxCell>
+        <UserObject label="opal_init" link="data:page/id,5fzAPs4kgJY6VKO34eEA" id="benARrttGZBLRWTV01FH-1">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+            <mxGeometry x="490" y="220" width="160" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5fzAPs4kgJY6VKO34eEA" name="opal_init">
+    <mxGraphModel dx="1372" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QhF6gsfP-G7483KTyrlo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QhF6gsfP-G7483KTyrlo-1" target="QhF6gsfP-G7483KTyrlo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QhF6gsfP-G7483KTyrlo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QhF6gsfP-G7483KTyrlo-1" target="QhF6gsfP-G7483KTyrlo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QhF6gsfP-G7483KTyrlo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QhF6gsfP-G7483KTyrlo-1" target="QhF6gsfP-G7483KTyrlo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QhF6gsfP-G7483KTyrlo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QhF6gsfP-G7483KTyrlo-1" target="QhF6gsfP-G7483KTyrlo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QhF6gsfP-G7483KTyrlo-1" value="ekiga/lib/engine/framework/kickstart.cpp&lt;br&gt;Ekiga::KickStart::kick&lt;br&gt;try_initialize_more" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="250" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QhF6gsfP-G7483KTyrlo-2" value="&lt;div&gt;&amp;nbsp; boost::shared_ptr&amp;lt;Ekiga::Spark&amp;gt; spark (new OPALSpark);&lt;/div&gt;&lt;div&gt;&amp;nbsp; kickstart.add_spark (spark);&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="160" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QhF6gsfP-G7483KTyrlo-3" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; boost::shared_ptr&amp;lt;Ekiga::ContactCore&amp;gt; contact_core = core.get&amp;lt;Ekiga::ContactCore&amp;gt; (&quot;contact-core&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; boost::shared_ptr&amp;lt;Ekiga::PresenceCore&amp;gt; presence_core = core.get&amp;lt;Ekiga::PresenceCore&amp;gt; (&quot;presence-core&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; boost::shared_ptr&amp;lt;Ekiga::CallCore&amp;gt; call_core = core.get&amp;lt;Ekiga::CallCore&amp;gt; (&quot;call-core&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; boost::shared_ptr&amp;lt;Ekiga::ChatCore&amp;gt; chat_core = core.get&amp;lt;Ekiga::ChatCore&amp;gt; (&quot;chat-core&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; boost::shared_ptr&amp;lt;Ekiga::AccountCore&amp;gt; account_core = core.get&amp;lt;Ekiga::AccountCore&amp;gt; (&quot;account-core&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; boost::shared_ptr&amp;lt;Ekiga::AudioInputCore&amp;gt; audioinput_core = core.get&amp;lt;Ekiga::AudioInputCore&amp;gt; (&quot;audioinput-core&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; boost::shared_ptr&amp;lt;Ekiga::VideoInputCore&amp;gt; videoinput_core = core.get&amp;lt;Ekiga::VideoInputCore&amp;gt; (&quot;videoinput-core&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; boost::shared_ptr&amp;lt;Ekiga::AudioOutputCore&amp;gt; audiooutput_core = core.get&amp;lt;Ekiga::AudioOutputCore&amp;gt; (&quot;audiooutput-core&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; boost::shared_ptr&amp;lt;Ekiga::VideoOutputCore&amp;gt; videooutput_core = core.get&amp;lt;Ekiga::VideoOutputCore&amp;gt; (&quot;videooutput-core&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; boost::shared_ptr&amp;lt;Ekiga::PersonalDetails&amp;gt; personal_details = core.get&amp;lt;Ekiga::PersonalDetails&amp;gt; (&quot;personal-details&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; boost::shared_ptr&amp;lt;Bank&amp;gt; account_store = core.get&amp;lt;Bank&amp;gt; (&quot;opal-account-store&quot;);&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="509" y="200" width="721" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QhF6gsfP-G7483KTyrlo-5" value="boost::shared_ptr&amp;lt;Opal::Sip::CallManager&amp;gt; sip_call_manager (new Opal::Sip::CallManager (core, endpoint, sip_endpoint))&lt;br&gt;call_core-&amp;gt;add_manager (sip_call_manager)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="497" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QhF6gsfP-G7483KTyrlo-7" value="boost::shared_ptr&amp;lt;Opal::H323::CallManager&amp;gt; h323_call_manager (new Opal::H323::CallManager (core, endpoint, h323_endpoint))&lt;br&gt;call_core-&amp;gt;add_manager (h323_call_manager)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="509" y="592" width="721" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QhF6gsfP-G7483KTyrlo-8" value="Opal::EndPoint&amp;amp; endpoint = GnomeMeeting::Process ()-&amp;gt;GetEndPoint ()&lt;br&gt;Opal::Sip::EndPoint&amp;amp; sip_endpoint = endpoint.GetSipEndPoint ()&lt;br&gt;Opal::H323::EndPoint&amp;amp; h323_endpoint = endpoint.GetH323EndPoint ()" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="509" y="395" width="721" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
