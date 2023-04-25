@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T12:20:24.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8oFX-NNsu0E9IzwRPXQM" version="21.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-25T12:36:08.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IeJ0ky6M-npvBfhKq6Lo" version="21.1.7" type="github" pages="4">
   <diagram name="ekiga_main" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1372" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -10,16 +10,16 @@
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-3" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-3" value="encoder_set_options" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="100" height="580" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-3" vertex="1">
           <mxGeometry x="45" y="120" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-4" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-4" value="SetOptions" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="540" y="80" width="100" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-5" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-5" value="SetOption" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="680" y="80" width="100" height="580" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-6" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
@@ -151,16 +151,16 @@
         <mxCell id="7baba1c4bc27f4b0-41" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="240" y="30" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-42" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-42" value="呼叫时进入&lt;br&gt;theora_plugin.cxx" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="400" y="30" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-43" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-43" value="设置所有codec&lt;br&gt;c9-h264.cxx" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="540" y="30" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-45" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="820" y="30" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-44" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-44" value="协商之后设置媒体格式&lt;br&gt;c9-h264.cxx" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="680" y="30" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-46" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
@@ -190,6 +190,12 @@
         </mxCell>
         <mxCell id="gQu-EgqjIdYCseF4d5mw-6" value="C9_VcapVenc_init" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="-300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ijWDm0RKz5ggMyt9_muB-1" value="&lt;div&gt;theora_plugin.h&lt;br&gt;&lt;/div&gt;&lt;div&gt;static PluginCodec_ControlDefn EncoderControls[] = {&lt;/div&gt;&lt;div&gt;&amp;nbsp; { PLUGINCODEC_CONTROL_VALID_FOR_PROTOCOL,&amp;nbsp; &amp;nbsp; valid_for_protocol },&lt;/div&gt;&lt;div&gt;&amp;nbsp; { PLUGINCODEC_CONTROL_GET_CODEC_OPTIONS,&amp;nbsp; &amp;nbsp; &amp;nbsp;get_codec_options },&lt;/div&gt;&lt;div&gt;&amp;nbsp; { PLUGINCODEC_CONTROL_FREE_CODEC_OPTIONS,&amp;nbsp; &amp;nbsp; free_codec_options },&lt;/div&gt;&lt;div&gt;&amp;nbsp; { PLUGINCODEC_CONTROL_TO_NORMALISED_OPTIONS, to_normalised_options },&lt;/div&gt;&lt;div&gt;&amp;nbsp; { PLUGINCODEC_CONTROL_TO_CUSTOMISED_OPTIONS, to_customised_options },&lt;/div&gt;&lt;div&gt;&amp;nbsp; { PLUGINCODEC_CONTROL_SET_CODEC_OPTIONS,&amp;nbsp; &amp;nbsp; &amp;nbsp;encoder_set_options },&lt;/div&gt;&lt;div&gt;&amp;nbsp; { PLUGINCODEC_CONTROL_GET_OUTPUT_DATA_SIZE,&amp;nbsp; encoder_get_output_data_size },&lt;/div&gt;&lt;div&gt;&amp;nbsp; PLUGINCODEC_CONTROL_LOG_FUNCTION_INC&lt;span style=&quot;background-color: initial;&quot;&gt;};&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-32.5" width="530" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ijWDm0RKz5ggMyt9_muB-2" value="&lt;div&gt;static PluginCodec_ControlDefn DecoderControls[] = {&lt;/div&gt;&lt;div&gt;&amp;nbsp; { PLUGINCODEC_CONTROL_GET_CODEC_OPTIONS,&amp;nbsp; &amp;nbsp; &amp;nbsp;get_codec_options },&lt;/div&gt;&lt;div&gt;&amp;nbsp; { PLUGINCODEC_CONTROL_GET_OUTPUT_DATA_SIZE,&amp;nbsp; decoder_get_output_data_size },&lt;span style=&quot;background-color: initial;&quot;&gt;};&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="150" width="520" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
