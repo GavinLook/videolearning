@@ -1,0 +1,746 @@
+<mxfile host="app.diagrams.net" modified="2023-05-04T01:24:37.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="4gyS4R3Ouup_baHQoUds" version="21.1.7" type="github" pages="5">
+  <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
+    <mxGraphModel dx="1372" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7baba1c4bc27f4b0-2" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
+          <mxGeometry x="45" y="100" width="10" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-3" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="400" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-3" vertex="1">
+          <mxGeometry x="45" y="120" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-4" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="540" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-5" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="680" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-6" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="820" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-7" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="960" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-8" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
+          <mxGeometry x="45" y="100" width="10" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="585" y="220" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-17" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-13" target="7baba1c4bc27f4b0-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="460" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="725" y="230" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-20" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-16" target="7baba1c4bc27f4b0-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-21" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-19" target="7baba1c4bc27f4b0-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="306" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="260" />
+              <mxPoint x="700" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="585" y="440" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-23" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1005" y="460" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-26" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="1" source="7baba1c4bc27f4b0-22" target="7baba1c4bc27f4b0-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-27" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="1" source="7baba1c4bc27f4b0-25" target="7baba1c4bc27f4b0-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="870" y="550" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-29" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-37" target="7baba1c4bc27f4b0-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="550" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-30" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-28" target="7baba1c4bc27f4b0-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="626" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-11" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-14" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="590" y="300" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-35" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-16" target="7baba1c4bc27f4b0-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="230" as="sourcePoint" />
+            <mxPoint x="595" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="282" />
+              <mxPoint x="650" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-36" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.066;exitY=0.713;exitPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610.3333333333333" y="350" as="sourcePoint" />
+            <mxPoint x="595" y="389" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="350" />
+              <mxPoint x="650" y="389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="590" y="520" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-39" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595.3333333333335" y="501" as="sourcePoint" />
+            <mxPoint x="600.3333333333335" y="539.3333333333334" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="501" />
+              <mxPoint x="650" y="539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-40" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="100" y="30" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-41" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="240" y="30" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-42" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="400" y="30" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-43" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="540" y="30" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-44" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="680" y="30" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-45" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="820" y="30" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-46" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="960" y="30" width="100" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uVENojcZfSO8Y_uy05MT" name="hdmi热插拔一">
+    <mxGraphModel dx="1372" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-1" value="hardware\libhardware\include\hardware\hdmi_cec.h" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="170" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-2" target="EOpfLwn9DBZEHAKd-6kI-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-2" value="1.注册接口HAL开始" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.461;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-3" target="EOpfLwn9DBZEHAKd-6kI-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-3" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;void&lt;/span&gt; (*&lt;span style=&quot;color: #9cdcfe;&quot;&gt;register_event_callback&lt;/span&gt;)(&lt;span style=&quot;color: #569cd6;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #569cd6;&quot;&gt;struct&lt;/span&gt; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;hdmi_cec_device&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;dev&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;event_callback_t&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;callback&lt;/span&gt;, &lt;span style=&quot;color: #569cd6;&quot;&gt;void*&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;arg&lt;/span&gt;);&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="450" y="210" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-4" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;hardware\interfaces\tv\cec\1.0\default\HdmiCec.h&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="500" y="310" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-6" target="EOpfLwn9DBZEHAKd-6kI-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-6" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;2.IHdmiCec&amp;nbsp;callback接口回调实现&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="270" y="350" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-7" target="EOpfLwn9DBZEHAKd-6kI-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="380" />
+              <mxPoint x="910" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-7" target="EOpfLwn9DBZEHAKd-6kI-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="380" />
+              <mxPoint x="910" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-7" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;static&lt;/span&gt; &lt;span style=&quot;color: #569cd6;&quot;&gt;void&lt;/span&gt; &lt;span style=&quot;color: #dcdcaa;&quot;&gt;eventCallback&lt;/span&gt;(&lt;span style=&quot;color: #569cd6;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;hdmi_event_t&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;event&lt;/span&gt;, &lt;span style=&quot;color: #569cd6;&quot;&gt;void*&lt;/span&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt; /* arg */&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="490" y="350" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-14" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;HDMI_EVENT_CEC_MESSAGE&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="930" y="310" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-16" target="EOpfLwn9DBZEHAKd-6kI-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-16" target="EOpfLwn9DBZEHAKd-6kI-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-16" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;HDMI_EVENT_HOT_PLUG&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="930" y="380" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-19" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;如果是盒子的话，portId就是1，TV的话就是从1-4&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="380" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-21" target="EOpfLwn9DBZEHAKd-6kI-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-21" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecController&lt;/span&gt;::&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecCallback&lt;/span&gt;::&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onHotplugEvent&lt;/span&gt;(&lt;span style=&quot;color: #569cd6;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;HotplugEvent&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;event&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="795" y="525" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-23" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;frameworks\base\services\core\jni\com_android_server_hdmi_HdmiCecController.cpp&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="730" y="460" width="620" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-24" target="EOpfLwn9DBZEHAKd-6kI-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-24" target="EOpfLwn9DBZEHAKd-6kI-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-24" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;class&lt;/span&gt; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecEventHandler&lt;/span&gt; : &lt;span style=&quot;color: #569cd6;&quot;&gt;public&lt;/span&gt; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;MessageHandler&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="525" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-26" target="EOpfLwn9DBZEHAKd-6kI-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-26" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;propagateHotplugEvent&lt;/span&gt;(&lt;span style=&quot;color: #569cd6;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;HotplugEvent&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;event&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="628" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-27" target="EOpfLwn9DBZEHAKd-6kI-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-27" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;3.android framework jni&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="225" y="628" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-30" target="EOpfLwn9DBZEHAKd-6kI-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-30" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;env&lt;/span&gt;-&amp;gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;CallVoidMethod&lt;/span&gt;(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;mController&lt;/span&gt;-&amp;gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;getCallbacksObj&lt;/span&gt;(),&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;gHdmiCecControllerClassInfo&lt;/span&gt;.&lt;span style=&quot;color: #9cdcfe;&quot;&gt;handleHotplug&lt;/span&gt;, &lt;span style=&quot;color: #9cdcfe;&quot;&gt;port&lt;/span&gt;, &lt;span style=&quot;color: #9cdcfe;&quot;&gt;connected&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="800" y="628" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-32" target="EOpfLwn9DBZEHAKd-6kI-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-32" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;java侧的HdmiCecController的handleHotplug方法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="470" y="628" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-33" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;frameworks\base\services\core\java\com\android\server\hdmi\HdmiCecController.java&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="200" y="720" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-34" target="EOpfLwn9DBZEHAKd-6kI-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-34" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;handleHotplug&lt;/span&gt;(&lt;span style=&quot;color: #4ec9b0;&quot;&gt;int&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;port&lt;/span&gt;, &lt;span style=&quot;color: #4ec9b0;&quot;&gt;boolean&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;connected&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="470" y="790" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-35" target="EOpfLwn9DBZEHAKd-6kI-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-35" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;4.HdmiCecController.java&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="210" y="800" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-36" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;打开log.tag.HDMI=DEBUG开关&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="710" y="770" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-44" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;mService&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onHotplug&lt;/span&gt;(port, connected)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="800" y="790" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-46" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;frameworks\base\services\core\java\com\android\server\hdmi\&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;HdmiControlService&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;.java&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="190" y="890" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-47" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;不是tv，就重新分配逻辑地址；&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;调用HdmiCecLocalDevice的onHotplug回调&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1404" y="800" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-48" target="EOpfLwn9DBZEHAKd-6kI-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-48" target="EOpfLwn9DBZEHAKd-6kI-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-48" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onHotplug&lt;/span&gt;(&lt;span style=&quot;color: #4ec9b0;&quot;&gt;int&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;portId&lt;/span&gt;, &lt;span style=&quot;color: #4ec9b0;&quot;&gt;boolean&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;connected&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="800" y="880" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-49" target="EOpfLwn9DBZEHAKd-6kI-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-49" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;device&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onHotplug&lt;/span&gt;(portId, connected)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="880" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-50" target="EOpfLwn9DBZEHAKd-6kI-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-50" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;announceHotplugEvent&lt;/span&gt;(&lt;span style=&quot;color: #4ec9b0;&quot;&gt;int&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;portId&lt;/span&gt;, &lt;span style=&quot;color: #4ec9b0;&quot;&gt;boolean&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;connected&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="960" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-53" value="实际没有处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-55" target="EOpfLwn9DBZEHAKd-6kI-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-55" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;announceHotplugEvent&lt;/span&gt;(&lt;span style=&quot;color: #4ec9b0;&quot;&gt;int&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;portId&lt;/span&gt;, &lt;span style=&quot;color: #4ec9b0;&quot;&gt;boolean&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;connected&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="960" width="255" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-57" target="EOpfLwn9DBZEHAKd-6kI-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-57" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;invokeHotplugEventListenerLocked&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="960" width="252.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-59" target="EOpfLwn9DBZEHAKd-6kI-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-59" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;listener&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onReceived&lt;/span&gt;(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;event&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1757" y="1050" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-62" target="EOpfLwn9DBZEHAKd-6kI-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-62" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;addHotplugEventListener&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="1050" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-64" target="EOpfLwn9DBZEHAKd-6kI-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-64" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;listener&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;asBinder&lt;/span&gt;().&lt;span style=&quot;color: #dcdcaa;&quot;&gt;linkToDeath&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="1050" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-67" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;invokeHotplugEventListenerLocked&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="900" y="1050" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-68" target="EOpfLwn9DBZEHAKd-6kI-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-68" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;5.HdmiControlService&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1050" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-70" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;广播HotplugEvent是后续事件传输过程的关键，因为下面会交给TIF来处理，更新TvInputManagerService里面Hdmi和Hardware相关设备的更新和对应接口add、remove的回调。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="520" y="970" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-71" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;frameworks\base\services\core\java\com\android\server\tv\TvInputHardwareManager.java&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="265" y="1140" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-72" target="EOpfLwn9DBZEHAKd-6kI-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-72" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;6.TvInputHardwareManager添加回调以及回调实现&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="194" y="1240" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-73" target="EOpfLwn9DBZEHAKd-6kI-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-73" target="EOpfLwn9DBZEHAKd-6kI-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-73" target="EOpfLwn9DBZEHAKd-6kI-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-73" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onBootPhase&lt;/span&gt;(&lt;span style=&quot;color: #4ec9b0;&quot;&gt;int&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;phase&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="544" y="1240" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-75" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;hdmiControlService&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;addHotplugEventListener&lt;/span&gt;(&lt;span style=&quot;color: #4fc1ff;&quot;&gt;mHdmiHotplugEventListener&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="800" y="1190" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-76" target="EOpfLwn9DBZEHAKd-6kI-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1450" y="1470" as="targetPoint" />
+            <mxPoint x="1360" y="1280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1370" y="1280" />
+              <mxPoint x="1370" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-76" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;hdmiControlService&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;addDeviceEventListener&lt;/span&gt;(&lt;span style=&quot;color: #4fc1ff;&quot;&gt;mHdmiDeviceEventListener&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="800" y="1250" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-77" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;hdmiControlService&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;addSystemAudioModeChangeListener&lt;/span&gt;(&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #4fc1ff;&quot;&gt;mHdmiSystemAudioModeChangeListener&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="800" y="1310" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-81" target="EOpfLwn9DBZEHAKd-6kI-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-81" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiHotplugEventListener&lt;/span&gt; &lt;span style=&quot;color: #569cd6;&quot;&gt;extends&lt;/span&gt; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;IHdmiHotplugEventListener&lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;Stub&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="1420" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-85" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;找到对应的InputId，就开始TvInputHardware&amp;nbsp;状态变更的处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="1410" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-86" target="EOpfLwn9DBZEHAKd-6kI-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-86" target="EOpfLwn9DBZEHAKd-6kI-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-86" target="EOpfLwn9DBZEHAKd-6kI-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-86" target="EOpfLwn9DBZEHAKd-6kI-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-86" target="EOpfLwn9DBZEHAKd-6kI-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-86" target="EOpfLwn9DBZEHAKd-6kI-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-86" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;ListenerHandler&lt;/span&gt; &lt;span style=&quot;color: #569cd6;&quot;&gt;extends&lt;/span&gt; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;Handler&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;handleMessage&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="770" y="1420" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-88" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;mListener&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onHdmiDeviceUpdated&lt;/span&gt;(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;inputId&lt;/span&gt;, &lt;span style=&quot;color: #9cdcfe;&quot;&gt;info&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="1380" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-91" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;mListener&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onHardwareDeviceAdded&lt;/span&gt;(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;info&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="1450" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-92" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;mListener&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onHardwareDeviceRemoved&lt;/span&gt;(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;info&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="1530" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-93" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;mListener&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onHdmiDeviceAdded&lt;/span&gt;(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;info&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="1600" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-94" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;mListener&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onHdmiDeviceRemoved&lt;/span&gt;(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;info&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="1670" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-95" target="EOpfLwn9DBZEHAKd-6kI-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-95" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(79, 193, 255);&quot;&gt;mListener&lt;/span&gt;.&lt;span style=&quot;color: rgb(220, 220, 170);&quot;&gt;onStateChanged&lt;/span&gt;(&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;inputId&lt;/span&gt;,&amp;nbsp;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;state&lt;/span&gt;)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="1740" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-101" target="EOpfLwn9DBZEHAKd-6kI-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-101" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;mListener是在TvInputHardwareManager初始化的时候由TvInputManagerServive创建&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="800" y="1510" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-102" target="EOpfLwn9DBZEHAKd-6kI-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-102" value="&lt;span style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; color: rgb(64, 120, 242); overflow-wrap: break-word; font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Anonymous Pro&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, Menlo, Monaco, Consolas, Inconsolata, Courier, monospace, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(250, 250, 250); user-select: text !important;&quot; class=&quot;hljs-title function_&quot;&gt;TvInputHardwareManager&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; overflow-wrap: break-word; font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Anonymous Pro&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, Menlo, Monaco, Consolas, Inconsolata, Courier, monospace, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; color: rgb(56, 58, 66); text-align: left; background-color: rgb(250, 250, 250); user-select: text !important;&quot; class=&quot;hljs-params&quot;&gt;(Context context, Listener listener)&lt;/span&gt;&lt;span style=&quot;color: rgb(56, 58, 66); font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Anonymous Pro&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, Menlo, Monaco, Consolas, Inconsolata, Courier, monospace, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(250, 250, 250);&quot;&gt; &lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="785" y="1720" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-104" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;frameworks\base\services\core\java\com\android\server\tv\TvInputManagerService.java&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="582.5" y="1820" width="620" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-105" target="EOpfLwn9DBZEHAKd-6kI-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-105" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;7.TvInputManagerService.java&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="140" y="1890" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-106" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HardwareListener&lt;/span&gt; &lt;span style=&quot;color: #569cd6;&quot;&gt;implements&lt;/span&gt; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;TvInputHardwareManager&lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;Listener&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="820" y="1890" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-111" target="EOpfLwn9DBZEHAKd-6kI-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-111" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;setStateLocked&lt;/span&gt;(&lt;span style=&quot;color: #4ec9b0;&quot;&gt;String&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;inputId&lt;/span&gt;, &lt;span style=&quot;color: #4ec9b0;&quot;&gt;int&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;state&lt;/span&gt;, &lt;span style=&quot;color: #4ec9b0;&quot;&gt;int&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;userId&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="827" y="1980" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EOpfLwn9DBZEHAKd-6kI-112" target="EOpfLwn9DBZEHAKd-6kI-114" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-112" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;notifyInputStateChangedLocked&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="837" y="2080" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-114" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;callback&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onInputStateChanged&lt;/span&gt;(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;inputId&lt;/span&gt;, &lt;span style=&quot;color: #9cdcfe;&quot;&gt;state&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="822" y="2180" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOpfLwn9DBZEHAKd-6kI-116" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;调用注册在HdmiControlService里面的ITvInputManagerCallback的onInputStateChanged回调方法，ITvInputManagerCallback则是可以通过TvInputManager注册的回调&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="350" y="2080" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-1" value="vendor/amlogic/common/frameworks/services/hdmicec/libhdmi_cec/HdmiCecControl.cpp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2020" y="870" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-2" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecControl&lt;/span&gt;::&lt;span style=&quot;color: #dcdcaa;&quot;&gt;handleHotplug&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2145" y="940" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-3" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecControl&lt;/span&gt;::&lt;span style=&quot;color: #dcdcaa;&quot;&gt;getDeviceExtraInfo(1)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2132.5" y="1060" width="287.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-4" value="播放设备且没有连接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2380" y="1010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-5" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecControl&lt;/span&gt;::&lt;span style=&quot;color: #4ec9b0;&quot;&gt;MsgHandler&lt;/span&gt;::&lt;span style=&quot;color: #9cdcfe;&quot;&gt;GIVE_OSD_NAEM&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2560" y="1030" width="317.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-6" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecControl&lt;/span&gt;::&lt;span style=&quot;color: #4ec9b0;&quot;&gt;MsgHandler&lt;/span&gt;::&lt;span style=&quot;color: #9cdcfe;&quot;&gt;MSG_GIVE_DEVICE_VENDOR_ID&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2560" y="1100" width="317.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-7" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecControl&lt;/span&gt;::&lt;span style=&quot;color: #4ec9b0;&quot;&gt;MsgHandler&lt;/span&gt;::&lt;span style=&quot;color: #9cdcfe;&quot;&gt;GET_MENU_LANGUAGE&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2560" y="1180" width="317.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvRgwWWFK46q4kttIpn3-8" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecControl&lt;/span&gt;::&lt;span style=&quot;color: #4ec9b0;&quot;&gt;MsgHandler&lt;/span&gt;::&lt;span style=&quot;color: #dcdcaa;&quot;&gt;handleMessage&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2120" y="1190" width="330" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AlWmV3oP71cxxaOZ0mgc" name="hdmi热插拔二">
+    <mxGraphModel dx="2199" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-1" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;HdmiControlService在收到HdmiCecController的onHotplug回调后，会再依次调用设备列表中的各个HdmiCecLocalDevice的onHotplug方法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="200" y="30" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-2" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;frameworks\base\services\core\java\com\android\server\hdmi\HdmiCecLocalDeviceTv.java&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="130" width="650" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-3" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;1.HdmiCecLocalDeviceTv&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="110" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-4" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onHotplug&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="245" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Of9xNJhjD3YHADR-fjGf-5" target="Of9xNJhjD3YHADR-fjGf-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-5" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;addAndStartAction&lt;/span&gt;(&lt;span style=&quot;color: #569cd6;&quot;&gt;final&lt;/span&gt; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiCecFeatureAction&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;action&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="300" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-6" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;frameworks\base\services\core\java\com\android\server\hdmi\HotplugDetectionAction.java&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="260" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-7" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;3.TvInputHardwareManager&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="390" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-9" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;frameworks\base\media\java\android\media\tv\TvInputService.java&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-165" y="1240" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-10" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;2.HotplugDetectionAction.java&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="240" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Of9xNJhjD3YHADR-fjGf-11" target="Of9xNJhjD3YHADR-fjGf-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-11" value="&lt;span style=&quot;color: rgb(56, 58, 66); font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Anonymous Pro&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, Menlo, Monaco, Consolas, Inconsolata, Courier, monospace, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(250, 250, 250);&quot;&gt;pollAllDevices()&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="205" y="420" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-13" value="&lt;span style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; color: rgb(64, 120, 242); overflow-wrap: break-word; font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Anonymous Pro&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, Menlo, Monaco, Consolas, Inconsolata, Courier, monospace, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(250, 250, 250); user-select: text !important;&quot; class=&quot;hljs-title function_&quot;&gt;addDevice&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; overflow-wrap: break-word; font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Anonymous Pro&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, Menlo, Monaco, Consolas, Inconsolata, Courier, monospace, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; color: rgb(56, 58, 66); text-align: left; background-color: rgb(250, 250, 250); user-select: text !important;&quot; class=&quot;hljs-params&quot;&gt;(&lt;span style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; color: rgb(152, 104, 1); overflow-wrap: break-word; user-select: text !important;&quot; class=&quot;hljs-type&quot;&gt;int&lt;/span&gt; addedAddress)&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-15" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;和hotplug一样&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-16" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;4.TvInputManagerService&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="680" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Of9xNJhjD3YHADR-fjGf-18" target="Of9xNJhjD3YHADR-fjGf-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-18" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onHdmiDeviceAdded&lt;/span&gt;(&lt;span style=&quot;color: #4ec9b0;&quot;&gt;HdmiDeviceInfo&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;deviceInfo&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="670" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Of9xNJhjD3YHADR-fjGf-19" target="Of9xNJhjD3YHADR-fjGf-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-19" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;serviceState&lt;/span&gt;.&lt;span style=&quot;color: #9cdcfe;&quot;&gt;service&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;notifyHdmiDeviceAdded&lt;/span&gt;(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;deviceInfo&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="790" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-21" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;TvInputManagerService会通过bind的方式连接TvInputService，&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;通知TvInputService&amp;nbsp;hdmi&amp;nbsp;设备的状态发生了变化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="330" y="780" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Of9xNJhjD3YHADR-fjGf-22" target="Of9xNJhjD3YHADR-fjGf-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-22" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;InputServiceConnection&lt;/span&gt; &lt;span style=&quot;color: #569cd6;&quot;&gt;implements&lt;/span&gt; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;ServiceConnection&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="900" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-24" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;InputServiceConnection实现的onServiceConnected方法里面，会将TvInputService的BpBinder保存起来，并注册ServiceCallback&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="300" y="900" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-25" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;ServiceCallback的作用是，在TvInputManagerService通过onHdmiDeviceAdded调用到TvInputService以后，再回调给TvInputManagerService继续处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1010" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Of9xNJhjD3YHADR-fjGf-26" target="Of9xNJhjD3YHADR-fjGf-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-26" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;ServiceCallback&lt;/span&gt; &lt;span style=&quot;color: #569cd6;&quot;&gt;extends&lt;/span&gt; &lt;span style=&quot;color: #4ec9b0;&quot;&gt;ITvInputServiceCallback&lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;Stub&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1010" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-27" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;连接TvInputService的位置，在TvInputManagerService createSession和removeSession时，都可能会重新建立或者移除和TvInputService的连接&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1109" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-28" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;updateServiceConnectionLocked&lt;/span&gt;(&lt;span style=&quot;color: #4ec9b0;&quot;&gt;ComponentName&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;component&lt;/span&gt;, &lt;span style=&quot;color: #4ec9b0;&quot;&gt;int&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;userId&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-75" y="1109" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Of9xNJhjD3YHADR-fjGf-29" target="Of9xNJhjD3YHADR-fjGf-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-29" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;5.TvInputService.java&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="1300" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Of9xNJhjD3YHADR-fjGf-34" target="Of9xNJhjD3YHADR-fjGf-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-34" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;IBinder&lt;/span&gt; &lt;span style=&quot;color: #dcdcaa;&quot;&gt;onBind&lt;/span&gt;(&lt;span style=&quot;color: #4ec9b0;&quot;&gt;Intent&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;intent&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="1300" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-35" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;TvInputService具体的实现类重写onHdmiDeviceAdded方法，然后再是进行广播这个添加的TvInputInfo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1340" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Of9xNJhjD3YHADR-fjGf-36" target="Of9xNJhjD3YHADR-fjGf-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-36" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;DO_ADD_HDMI_INPUT&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="1410" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Of9xNJhjD3YHADR-fjGf-37" target="Of9xNJhjD3YHADR-fjGf-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-37" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;onHdmiDeviceAdded&lt;/span&gt;(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;deviceInfo&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-75" y="1513" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-40" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;broadcastAddHdmiInput&lt;/span&gt;(&lt;span style=&quot;color: #4ec9b0;&quot;&gt;int&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;id&lt;/span&gt;, &lt;span style=&quot;color: #4ec9b0;&quot;&gt;TvInputInfo&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;inputInfo&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="1610" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-42" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;ITvInputServiceCallback在TvInputManagerService建立和TvInputService的连接时就注册好了，所以下面其实是又交给TvInputManagerService进行后续的TvInputInfo相关的处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="220" y="1610" width="455" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-44" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;不管是因为hdmi设备的增加，还是移除，都是完全重新的通过PackageManager重新查询所有的创建的TvInputService，如果有新添加的，如果没有就updateServiceConnectionLocked创建对应的ServiceState建立和它的binder连接就创建之，并且添加到保存的InputIdMap中。反之如果原来有现在没了，就移除之。最后触发notifyInputAddedLocked来通知观察者&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="205" y="1780" width="660" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-45" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;buildTvInputListLocked&lt;/span&gt;(&lt;span style=&quot;color: #4ec9b0;&quot;&gt;int&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;userId&lt;/span&gt;, &lt;span style=&quot;color: #4ec9b0;&quot;&gt;String&lt;/span&gt;[] &lt;span style=&quot;color: #9cdcfe;&quot;&gt;updatedPackages&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="1770" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of9xNJhjD3YHADR-fjGf-46" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;4.TvInputManagerService&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="1770" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="owgfuF83mj88Ea6SaXWK" name="media">
+    <mxGraphModel dx="1372" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-1" value="&lt;h1 style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimHei, Arial, SimSun; overflow-wrap: break-word; color: rgb(34, 34, 38); word-break: break-all; font-variant-ligatures: common-ligatures; text-align: start; background-color: rgb(255, 255, 255); user-select: text !important;&quot; id=&quot;articleContentId&quot; class=&quot;title-article&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://blog.csdn.net/u010126792/article/details/86580878&quot;&gt;Android视频编解码之MediaCodec简单入门&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="160" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-4" value="&lt;h1 style=&quot;margin: 0px 0px 1.667rem; line-height: 1.31; color: rgb(37, 41, 51); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial; text-align: start;&quot; data-v-0083c6d0=&quot;&quot; class=&quot;article-title&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://juejin.cn/post/7168751408572235806&quot;&gt;Android MediaCodec硬件解码视频播放&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="260" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-5" value="&lt;h1 style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimHei, Arial, SimSun; overflow-wrap: break-word; color: rgb(34, 34, 38); word-break: break-all; font-variant-ligatures: common-ligatures; text-align: start; background-color: rgb(255, 255, 255); user-select: text !important;&quot; id=&quot;articleContentId&quot; class=&quot;title-article&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://blog.csdn.net/qq_30624591/article/details/103645940&quot;&gt;Amlogic_Android7.1 HDMI显示流程源码分析&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-6" value="&lt;h1 style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimHei, Arial, SimSun; overflow-wrap: break-word; color: rgb(34, 34, 38); word-break: break-all; font-variant-ligatures: common-ligatures; text-align: start; background-color: rgb(255, 255, 255); user-select: text !important;&quot; id=&quot;articleContentId&quot; class=&quot;title-article&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://blog.csdn.net/qq_38312843/article/details/126372822&quot;&gt;amlogic-android9.0-hdmi调试&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="450" width="152.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-7" value="&lt;h1 style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimHei, Arial, SimSun; overflow-wrap: break-word; color: rgb(34, 34, 38); word-break: break-all; text-align: start; background-color: rgb(255, 255, 255); user-select: text !important;&quot; id=&quot;articleContentId&quot; class=&quot;title-article&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://blog.csdn.net/xlnaan/article/details/103673267&quot;&gt;TIF 和Hdmi cec hotplug热插拔事件过程梳理一&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="540" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-8" value="&lt;h1 style=&quot;margin-bottom: 10px; color: rgb(75, 75, 75); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start;&quot; class=&quot;postTitle&quot;&gt;&lt;font style=&quot;text-decoration-line: none; color: rgb(26, 139, 200); font-size: 12px;&quot;&gt;&lt;a href=&quot;https://www.cnblogs.com/roger-yu/p/5635494.html&quot;&gt;Android多媒体--MediaCodec 中文API文档&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-9" value="&lt;h4 style=&quot;overflow-wrap: break-word; margin: 0px 0px 8px; padding: 0px; font-size: 14px; color: rgb(18, 18, 18); font-family: jan, &amp;quot;Open Sans&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, STHeiti, &amp;quot;WenQuanYi Micro Hei&amp;quot;, SimSun, sans-serif; letter-spacing: 0.4px; text-align: start; background-color: rgb(230, 230, 230); font-weight: 400; line-height: 16px;&quot; class=&quot;break-all&quot;&gt;&lt;a href=&quot;https://ffmpeg.0voice.com/forum.php?mod=viewthread&amp;amp;tid=1713&amp;amp;extra=page%3D1&quot;&gt;给Android工程师的音视频教程之一文弄懂MediaCodec&lt;/a&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="730" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-10" value="&lt;h1 style=&quot;box-sizing: border-box; margin: 20px 0px 24px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, STHeiti, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Source Han Sans TC&amp;quot;, &amp;quot;Noto Sans CJK TC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, SimSun, sans-serif; line-height: 1.1; color: rgb(255, 255, 255); text-align: start; background-color: rgb(204, 204, 204);&quot; id=&quot;android-codec2&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;http://www.cjcbill.com/2022/05/11/Android-Codec2%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90/&quot;&gt;Android Codec2框架分析&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-11" value="&lt;h1 style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimHei, Arial, SimSun; overflow-wrap: break-word; color: rgb(34, 34, 38); word-break: break-all; text-align: start; background-color: rgb(255, 255, 255); user-select: text !important;&quot; id=&quot;articleContentId&quot; class=&quot;title-article&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://blog.csdn.net/yanbixing123/article/details/88937193&quot;&gt;Android MultiMedia框架完全解析 - MediaCodec解析&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="950" width="162" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-12" value="&lt;h1 style=&quot;margin: 0px 0px 16px; font-weight: 500; line-height: 32px; color: rgb(29, 33, 41); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial; text-align: start;&quot; data-v-58023bf9=&quot;&quot; data-v-3ff8f708=&quot;&quot; class=&quot;title web-title&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://juejin.cn/column/7085312536211357732&quot;&gt;Android音视频开发&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-13" value="&lt;h1 style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimHei, Arial, SimSun; overflow-wrap: break-word; color: rgb(34, 34, 38); word-break: break-all; font-variant-ligatures: common-ligatures; text-align: start; background-color: rgb(255, 255, 255); user-select: text !important;&quot; id=&quot;articleContentId&quot; class=&quot;title-article&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://blog.csdn.net/qq_27136111/article/details/94594719&quot;&gt;Android 9.0 multimedia框架解析(四)start过程&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="1150" width="142" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-14" value="&lt;h1 style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimHei, Arial, SimSun; overflow-wrap: break-word; color: rgb(34, 34, 38); word-break: break-all; font-variant-ligatures: common-ligatures; text-align: start; background-color: rgb(255, 255, 255); user-select: text !important;&quot; id=&quot;articleContentId&quot; class=&quot;title-article&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://blog.csdn.net/dfvbrtdhy/article/details/118915330&quot;&gt;13. Android MultiMedia框架完全解析 - MediaCodec解析&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="950" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZQj5X0MymeL_RrtQmKmF-15" target="ZQj5X0MymeL_RrtQmKmF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZQj5X0MymeL_RrtQmKmF-15" target="ZQj5X0MymeL_RrtQmKmF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-15" value="&lt;h1 style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimHei, Arial, SimSun; overflow-wrap: break-word; color: rgb(34, 34, 38); word-break: break-all; font-variant-ligatures: common-ligatures; text-align: start; background-color: rgb(255, 255, 255); user-select: text !important;&quot; id=&quot;articleContentId&quot; class=&quot;title-article&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;OpenMAX/IL&lt;/font&gt;&lt;/h1&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(0, 102, 0); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; background-color: rgb(255, 255, 255); user-select: text !important;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(0, 102, 0); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; background-color: rgb(255, 255, 255); user-select: text !important;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(0, 102, 0); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; background-color: rgb(255, 255, 255); user-select: text !important;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-16" value="https://blog.csdn.net/houxiaoni01/article/details/117999641" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1120" width="326" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-18" value="https://blog.csdn.net/houxiaoni01/article/details/117927530" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="836" y="1190" width="326" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-19" value="&lt;h1 style=&quot;font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; line-height: 1.22; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 24px 0px; font-synthesis: style; overflow-wrap: break-word; color: rgb(18, 18, 18); text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;Post-Title&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/359677039&quot;&gt;音视频编解码--MediaCodec之底层逻辑&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1270" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQj5X0MymeL_RrtQmKmF-21" value="&lt;h1 style=&quot;margin: 0px 0px 1.667rem; line-height: 1.31; color: rgb(37, 41, 51); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial; text-align: start;&quot; data-v-0083c6d0=&quot;&quot; class=&quot;article-title&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://juejin.cn/post/6844903669670871053&quot;&gt;MediaCodec在Android视频硬解码组件的应用&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zdMRKNMbaYhBzpYDKtZe-1" value="&lt;h1 style=&quot;margin: 0px 0px 1.667rem; line-height: 1.31; color: rgb(37, 41, 51); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial; text-align: start;&quot; data-v-0083c6d0=&quot;&quot; class=&quot;article-title&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://juejin.cn/post/7130429326851801096&quot;&gt;FFmpeg + MediaCodec 实现 Android 硬件解码，中间有个大坑&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1460" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zdMRKNMbaYhBzpYDKtZe-2" value="&lt;h1 style=&quot;margin: 0px 0px 1.667rem; line-height: 1.31; color: rgb(37, 41, 51); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial; text-align: start;&quot; data-v-0083c6d0=&quot;&quot; class=&quot;article-title&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://juejin.cn/post/7020591304543305758&quot;&gt;FFmpeg 调用 Android MediaCodec 进行硬解码（附源码）&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1560" width="210" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hgbmop8JBZ135-18m83_" name="内存分析">
+    <mxGraphModel dx="1372" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ge7z7hASh3omkVkw8XG_-1" value="https://www.cnblogs.com/sjli-blog/p/15076966.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="320" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
