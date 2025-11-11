@@ -293,14 +293,14 @@
         <mxCell id="caqUXhVO5_Gi9h-t98nP-4" value="串口传输" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="740" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2KWdv64jVM_5uR5lJRIE-8" value="UUID" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="2KWdv64jVM_5uR5lJRIE-8" value="product type" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="425" y="850" width="55" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2KWdv64jVM_5uR5lJRIE-9" value="对称密钥" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="502.5" y="850" width="55" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2KWdv64jVM_5uR5lJRIE-10" value="对称密钥" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="440" y="620" width="55" height="40" as="geometry" />
+          <mxGeometry x="430" y="620" width="55" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
