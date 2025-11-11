@@ -1,0 +1,299 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="第 1 页" id="IAAIRRkR0RoTmSsbltgc">
+    <mxGraphModel dx="1665" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rg6LLqtORh25ALbFwV65-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-1" target="rg6LLqtORh25ALbFwV65-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-1" value="A被审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rg6LLqtORh25ALbFwV65-2" target="rg6LLqtORh25ALbFwV65-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="208" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-2" value="B审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-5" value="1main/alt呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-11" value="A被审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-13" value="2slides呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-20" value="点对点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-22" target="rg6LLqtORh25ALbFwV65-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-22" target="rg6LLqtORh25ALbFwV65-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-22" value="A被审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-24" value="B审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-25" value="1main/alt呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-27" value="2slides呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-28" value="点对点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-29" value="B审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-32" target="rg6LLqtORh25ALbFwV65-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-32" value="A被审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rg6LLqtORh25ALbFwV65-34" target="rg6LLqtORh25ALbFwV65-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="188" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="177" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-34" value="B审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-35" value="1main/alt呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-36" target="rg6LLqtORh25ALbFwV65-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-36" target="rg6LLqtORh25ALbFwV65-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1390" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-36" value="A被审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-37" value="2slides呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-38" value="I.多点-已有示证呼叫后多点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="780" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-41" target="rg6LLqtORh25ALbFwV65-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-41" target="rg6LLqtORh25ALbFwV65-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-41" target="rg6LLqtORh25ALbFwV65-54" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-41" value="A被审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="990" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-42" value="B审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-43" value="1main/alt呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-44" value="2slides呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-46" value="B审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-47" value="C审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-49" value="3main/alt呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-50" value="C审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-52" value="流程3出现后有示证，4slides呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-54" value="C审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1211" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-55" value="C审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rg6LLqtORh25ALbFwV65-41" target="rg6LLqtORh25ALbFwV65-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-58" value="3main/alt呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-59" value="流程3出现后有示证，4slides呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-63" target="rg6LLqtORh25ALbFwV65-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-63" target="rg6LLqtORh25ALbFwV65-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-63" value="A被审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="930" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-64" value="B审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-65" value="1main/alt呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="1090" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-66" value="3slides呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-67" value="III.多点-先多点后再示证呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="790" y="1130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-68" value="C审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-70" value="C/B审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1820" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-75" value="2main/alt呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-83" target="rg6LLqtORh25ALbFwV65-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-83" value="场景：由B/C审讯端发起示证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="1085" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-84" target="rg6LLqtORh25ALbFwV65-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-84" value="A被审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-86" value="4示证呼叫别的审讯端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="1060" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-88" value="3slides呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="1210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-89" value="C/B审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1840" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-91" target="rg6LLqtORh25ALbFwV65-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-91" value="场景：由被审讯端A发起示证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1450" y="1225" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rg6LLqtORh25ALbFwV65-93" target="rg6LLqtORh25ALbFwV65-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-93" value="A被审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-94" value="4示证呼叫别的审讯端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1760" y="1200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-95" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="1090" width="60" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rg6LLqtORh25ALbFwV65-97" value="II.多点-已有示证呼叫后多点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="800" y="385" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EV-p-RwWX-P9qK8CnDXw-1" target="EV-p-RwWX-P9qK8CnDXw-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-1" value="A被审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-2" value="B审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-4" value="callid1 main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-5" value="callid2 alt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-6" value="B callid3 slides" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="425" y="1380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-7" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="55" y="1285" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-8" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="55" y="1370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-9" value="A发起示证呼叫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="205" y="1370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EV-p-RwWX-P9qK8CnDXw-10" target="EV-p-RwWX-P9qK8CnDXw-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-10" value="A被审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-11" value="C审讯端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV-p-RwWX-P9qK8CnDXw-13" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="65" y="1465" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="caqUXhVO5_Gi9h-t98nP-1" value="终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="585" width="160" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="caqUXhVO5_Gi9h-t98nP-2" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="830" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="caqUXhVO5_Gi9h-t98nP-3" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="480" y="820" as="sourcePoint" />
+            <mxPoint x="480" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="caqUXhVO5_Gi9h-t98nP-4" value="串口传输" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
